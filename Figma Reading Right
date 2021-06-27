@@ -1,0 +1,1585 @@
+import styled from "styled-components";
+
+const Div = styled.div`
+  display: flex;
+  max-width: 1440px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 976px;
+  width: 1440px;
+  background-color: rgba(247, 247, 247, 1);
+`;
+
+const Div2 = styled.div`
+  display: flex;
+  max-width: 307px;
+`;
+
+const Div3 = styled.div`
+  display: flex;
+  max-width: 307px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 969.0537109375px;
+  width: 307px;
+`;
+
+const Div4 = styled.div`
+  display: flex;
+  max-width: 31px;
+  height: 39px;
+  width: 31px;
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0.6000000238418579);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(196, 196, 196, 0.20000000298023224);
+`;
+
+const Div5 = styled.div`
+  display: flex;
+  max-width: 307px;
+  height: 976px;
+  width: 307px;
+  background-color: rgba(177, 13, 13, 0.8999999761581421);
+`;
+
+const Div6 = styled.div`
+  display: flex;
+  max-width: 123px;
+  height: 46.37073516845703px;
+  width: 123px;
+  box-shadow: -4px -3px 5px 3px rgba(255, 255, 255, 0.5);
+  background-color: rgba(184, 36, 36, 1);
+`;
+
+const Div7 = styled.div`
+  max-width: 74px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div8 = styled.div`
+  max-width: 218px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div9 = styled.div`
+  max-width: 276px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div10 = styled.div`
+  max-width: 193px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div11 = styled.div`
+  max-width: 215px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div12 = styled.div`
+  display: flex;
+  max-width: 288px;
+  height: 178.85853576660156px;
+  width: 288px;
+  background-color: rgba(255, 255, 255, 1);
+`;
+
+const Div13 = styled.div`
+  max-width: 206px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div14 = styled.div`
+  max-width: 144px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div15 = styled.div`
+  display: flex;
+  max-width: 275px;
+  height: 0px;
+  width: 275px;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-color: rgba(254, 254, 254, 0.800000011920929);
+  border-width: 5px;
+  border-style: solid;
+`;
+
+const Div16 = styled.div`
+  display: flex;
+  max-width: 256px;
+  height: 35.960975646972656px;
+  width: 256px;
+  background-color: rgba(41, 193, 193, 0.699999988079071);
+`;
+
+const Div17 = styled.div`
+  display: flex;
+  max-width: 22px;
+  height: 20.81951332092285px;
+  width: 22px;
+  opacity: 0.5;
+  background-color: rgba(0, 0, 0, 1);
+`;
+
+const Div18 = styled.div`
+  display: flex;
+  max-width: 22px;
+  height: 20.81951332092285px;
+  width: 22px;
+  opacity: 0.5;
+  background-color: rgba(0, 0, 0, 1);
+`;
+
+const Div19 = styled.div`
+  display: flex;
+  max-width: 31px;
+  height: 36.90732192993164px;
+  width: 31px;
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0.4000000059604645);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(196, 196, 196, 0.20000000298023224);
+`;
+
+const Div20 = styled.div`
+  max-width: 263px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div21 = styled.div`
+  max-width: 236px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  font-size: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const SwitzerlandTaiwanTurkeyUk = styled.div`
+  display: flex;
+  flex-direction: column;
+  max-width: 198px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  font-size: 32px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div22 = styled.div`
+  display: flex;
+  max-width: 178.85853576660156px;
+  height: 0px;
+  width: 178.85853576660156px;
+  border-color: rgba(91, 80, 80, 0.6000000238418579);
+  border-width: 1px;
+  border-style: solid;
+`;
+
+const Div23 = styled.div`
+  display: flex;
+  max-width: 1px;
+  height: 9.463415145874023px;
+  width: 1px;
+  background-color: rgba(196, 196, 196, 1);
+`;
+
+const Div24 = styled.div`
+  display: flex;
+  max-width: 31px;
+  height: 123.02439880371094px;
+  width: 31px;
+  box-shadow: 0px 4px 4px 0px rgba(243, 243, 243, 0.20000000298023224);
+  border-color: rgba(0, 0, 0, 0.12999999523162842);
+  border-width: 2px;
+  border-style: solid;
+  background-color: rgba(196, 196, 196, 0.20000000298023224);
+`;
+
+const Div25 = styled.div`
+  display: flex;
+  max-width: 31px;
+  height: 42.58536911010742px;
+  width: 31px;
+  border-radius: 16px;
+  box-shadow: 1px 1px 7px 0px rgba(0, 92, 170, 1);
+  border-color: rgba(9, 8, 8, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(0, 99, 183, 1);
+`;
+
+const Div26 = styled.div`
+  display: flex;
+  max-width: 663px;
+`;
+
+const Div27 = styled.div`
+  max-width: 570px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  color: rgba(0, 0, 0, 1);
+  font-size: 72px;
+  line-height: 100px;
+  text-align: left;
+  font-family: Crimson Text, sans-serif;
+`;
+
+const Div28 = styled.div`
+  display: flex;
+  max-width: 78px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 78px;
+  width: 78px;
+`;
+
+const Div29 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 45.53267288208008px;
+  width: 45.53267288208008px;
+`;
+
+const Image = styled.img`
+  object-fit: contain;
+  object-position: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+`;
+
+const ImageSizer = styled.div`
+  width: 100%;
+  padding-top: 52.122092972111446%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div30 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 43.8663330078125px;
+  width: 43.8663330078125px;
+`;
+
+const ImageSizer2 = styled.div`
+  width: 100%;
+  padding-top: 17.28736263506914%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div31 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 40.166744232177734px;
+  width: 40.166744232177734px;
+`;
+
+const ImageSizer3 = styled.div`
+  width: 100%;
+  padding-top: 21.576715487416223%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div32 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 46.39374923706055px;
+  width: 46.39374923706055px;
+`;
+
+const ImageSizer4 = styled.div`
+  width: 100%;
+  padding-top: 16.345598278155705%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div33 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 44.60625076293945px;
+  width: 44.60625076293945px;
+`;
+
+const ImageSizer5 = styled.div`
+  width: 100%;
+  padding-top: 17.000604023120665%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div34 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 36.17900085449219px;
+  width: 36.17900085449219px;
+`;
+
+const ImageSizer6 = styled.div`
+  width: 100%;
+  padding-top: 17.966212531531696%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div35 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 46.58333206176758px;
+  width: 46.58333206176758px;
+`;
+
+const ImageSizer7 = styled.div`
+  width: 100%;
+  padding-top: 121.25196975549606%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div36 = styled.div`
+  display: flex;
+  max-width: 899px;
+`;
+
+const Div37 = styled.div`
+  display: flex;
+  max-width: 899px;
+  height: 0px;
+  width: 899px;
+  box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.5);
+  opacity: 0.9;
+  border-color: rgba(148, 9, 9, 1);
+  border-width: 5px;
+  border-style: solid;
+`;
+
+const Div38 = styled.div`
+  display: flex;
+  max-width: 200px;
+  height: 33px;
+  width: 200px;
+  border-color: rgba(0, 0, 0, 0.949999988079071);
+  border-width: 1px;
+  border-style: solid;
+  background-image: linear-gradient(
+    to left,
+    rgba(255, 245, 135, 1) 0%,
+    rgba(241, 232, 135, 0.3499999940395355) 49.27082061767578%,
+    rgba(242, 230, 102, 0.15000000596046448) 100%
+  );
+`;
+
+const Div39 = styled.div`
+  max-width: 115px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+  font-family: Times New Roman, sans-serif;
+`;
+
+const Div40 = styled.div`
+  display: flex;
+  max-width: 45px;
+  height: 33px;
+  width: 45px;
+  background-color: rgba(0, 0, 0, 0.800000011920929);
+`;
+
+const Div41 = styled.div`
+  display: flex;
+  max-width: 26px;
+  height: 20px;
+  width: 26px;
+  border-color: rgba(255, 255, 255, 0.800000011920929);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(0, 0, 0, 0.800000011920929);
+`;
+
+const PreorderMacOs8NowYouCan = styled.div`
+  max-width: 358px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+`;
+
+const Div42 = styled.div`
+  display: flex;
+  max-width: 252px;
+  height: 0px;
+  width: 252px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 2px;
+  border-style: solid;
+`;
+
+const BeTheFirstToKnowLearnAbo = styled.div`
+  max-width: 362px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+`;
+
+const Div43 = styled.div`
+  display: flex;
+  max-width: 576px;
+`;
+
+const Div44 = styled.div`
+  display: flex;
+  max-width: 576px;
+  height: 0px;
+  width: 576px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  border-color: rgba(24, 153, 130, 1);
+  border-width: 6px;
+  border-style: solid;
+`;
+
+const Div45 = styled.div`
+  display: flex;
+  max-width: 576px;
+  height: 0px;
+  width: 576px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  border-color: rgba(24, 153, 130, 1);
+  border-width: 5.938459873199463px;
+  border-style: solid;
+`;
+
+const Div46 = styled.div`
+  display: flex;
+  max-width: 435px;
+  height: 124px;
+  width: 435px;
+  background-image: linear-gradient(
+    to left,
+    rgba(19, 105, 153, 0.10999999940395355) 0%,
+    rgba(9, 88, 133, 1) 51.35415196418762%,
+    rgba(23, 111, 160, 0.2800000011920929) 100%
+  );
+`;
+
+const Div47 = styled.div`
+  max-width: 259px;
+  box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.6000000238418579);
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-width: 0.5px;
+  border-style: solid;
+  color: rgba(255, 255, 255, 1);
+  font-size: 40px;
+  line-height: 30px;
+  letter-spacing: 8%;
+  text-align: left;
+  font-family: Open Sans, sans-serif;
+`;
+
+const Div48 = styled.div`
+  max-width: 277px;
+  box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.6000000238418579);
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-width: 0.5px;
+  border-style: solid;
+  color: rgba(255, 255, 255, 1);
+  font-size: 40px;
+  line-height: 30px;
+  letter-spacing: 8%;
+  text-align: left;
+  font-family: Open Sans, sans-serif;
+`;
+
+const RegisterTodayForAFreeCdR = styled.div`
+  max-width: 540px;
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.20000000298023224);
+  color: rgba(0, 0, 0, 0.699999988079071);
+  font-size: 35px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+  font-family: Times New Roman, sans-serif;
+`;
+
+const Div49 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 110px;
+  width: 110px;
+`;
+
+const Image8 = styled.img`
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+`;
+
+const ImageSizer8 = styled.div`
+  width: 100%;
+  padding-top: 100%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div50 = styled.div`
+  display: flex;
+  max-width: 675px;
+`;
+
+const Div51 = styled.div`
+  max-width: 213px;
+  color: rgba(31, 11, 11, 0.10999999940395355);
+  font-size: 80px;
+  line-height: 30px;
+  letter-spacing: 16%;
+  text-align: left;
+  font-family: Times New Roman, sans-serif;
+`;
+
+const Div52 = styled.div`
+  display: flex;
+  max-width: 644.5px;
+`;
+
+const Div53 = styled.div`
+  display: flex;
+  max-width: 644.5px;
+`;
+
+const Div54 = styled.div`
+  display: flex;
+  max-width: 77px;
+  height: 32px;
+  width: 77px;
+  background-color: rgba(6, 6, 6, 0.800000011920929);
+`;
+
+const Div55 = styled.div`
+  max-width: 34px;
+  color: rgba(255, 255, 255, 0.949999988079071);
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 55%;
+  text-align: left;
+  font-family: Open Sans, sans-serif;
+`;
+
+const Div56 = styled.div`
+  max-width: 79px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 55%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div57 = styled.div`
+  display: flex;
+  max-width: 265px;
+  height: 32px;
+  width: 265px;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+  background-image: linear-gradient(
+    to left,
+    rgba(211, 24, 24, 1) 0%,
+    rgba(196, 196, 196, 0) 81.04165196418762%
+  );
+`;
+
+const Div58 = styled.div`
+  display: flex;
+  flex-grow: 1;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 568.5px;
+  border-width: 1px;
+  border-style: solid;
+`;
+
+const ImageSizer9 = styled.div`
+  width: 100%;
+  padding-top: 1.9997684735552513e-14%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div59 = styled.div`
+  display: flex;
+  max-width: 284.00177001953125px;
+  height: 0px;
+  width: 284.00177001953125px;
+  border-width: 0.7473430037498474px;
+  border-style: solid;
+`;
+
+const Div60 = styled.div`
+  display: flex;
+  max-width: 281px;
+`;
+
+const Div61 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 40px;
+  width: 40px;
+  border-color: rgba(252, 234, 43, 1);
+  border-width: 0.10000000149011612px;
+  border-style: solid;
+`;
+
+const ImageSizer10 = styled.div`
+  width: 100%;
+  padding-top: 82.5%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div62 = styled.div`
+  display: flex;
+  max-width: 281px;
+`;
+
+const Div63 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 34.5px;
+  width: 34.5px;
+  border-color: rgba(255, 112, 8, 1);
+  border-width: 0.10000000149011612px;
+  border-style: solid;
+`;
+
+const ImageSizer11 = styled.div`
+  width: 100%;
+  padding-top: 95.65217391304348%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div64 = styled.div`
+  display: flex;
+  flex-grow: 1;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 262px;
+`;
+
+const ImageSizer12 = styled.div`
+  width: 100%;
+  padding-top: 69.08396946564885%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div65 = styled.div`
+  display: flex;
+  max-width: 279.0000305175781px;
+`;
+
+const Div66 = styled.div`
+  display: flex;
+  max-width: 428px;
+  height: 0px;
+  width: 428px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 2px;
+  border-style: solid;
+`;
+
+const Div67 = styled.div`
+  display: flex;
+  max-width: 276px;
+  height: 0px;
+  width: 276px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 2px;
+  border-style: solid;
+`;
+
+const Div68 = styled.div`
+  max-width: 194px;
+  box-shadow: 2px 2px 4px 0px rgba(135, 133, 133, 0.5);
+  border-color: rgba(0, 0, 0, 0.4000000059604645);
+  border-width: 1px;
+  border-style: solid;
+  color: rgba(218, 214, 214, 0.8299999833106995);
+  font-size: 32px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const QuickTimeVrTakesYouOutOf = styled.div`
+  max-width: 133px;
+  box-shadow: 2px 4px 4px 0px rgba(139, 134, 134, 0.41999998688697815);
+  border-color: rgba(0, 0, 0, 0.4000000059604645);
+  border-width: 1px;
+  border-style: solid;
+  color: rgba(249, 249, 249, 0.8299999833106995);
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div69 = styled.div`
+  display: flex;
+  max-width: 262px;
+`;
+
+const Div70 = styled.div`
+  max-width: 176px;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  border-color: rgba(0, 0, 0, 0.699999988079071);
+  border-width: 0.6000000238418579px;
+  border-style: solid;
+  color: rgba(227, 222, 222, 0.7300000190734863);
+  font-size: 32px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div71 = styled.div`
+  max-width: 118px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+`;
+
+const Div72 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 133px;
+  width: 133px;
+`;
+
+const ImageSizer13 = styled.div`
+  width: 100%;
+  padding-top: 90.22556390977444%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div73 = styled.div`
+  display: flex;
+  max-width: 75px;
+`;
+
+const Div74 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 21.19565200805664px;
+  width: 21.19565200805664px;
+  border-color: rgba(0, 0, 0, 0.05000000074505806);
+  border-width: 1px;
+  border-style: solid;
+`;
+
+const Image14 = styled.img`
+  object-fit: contain;
+  object-position: center;
+`;
+
+const Div75 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 35.326087951660156px;
+  width: 35.326087951660156px;
+  opacity: 0;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 0px;
+  border-style: solid;
+`;
+
+const Image15 = styled.img`
+  object-fit: contain;
+  object-position: center;
+`;
+
+const Div76 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 14.67391300201416px;
+  width: 14.67391300201416px;
+  opacity: 0;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 0px;
+  border-style: solid;
+`;
+
+const Image16 = styled.img`
+  object-fit: contain;
+  object-position: center;
+`;
+
+const Div77 = styled.div`
+  display: flex;
+  max-width: 75px;
+`;
+
+const Div78 = styled.div`
+  display: flex;
+  max-width: 59.78260803222656px;
+  height: 0px;
+  width: 59.78260803222656px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(58, 13, 13, 1);
+`;
+
+const Div79 = styled.div`
+  display: flex;
+  max-width: 27.173913955688477px;
+  height: 0px;
+  width: 27.173913955688477px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(58, 13, 13, 1);
+`;
+
+const Div80 = styled.div`
+  display: flex;
+  max-width: 27.173913955688477px;
+  height: 0px;
+  width: 27.173913955688477px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(58, 13, 13, 1);
+`;
+
+const Div81 = styled.div`
+  display: flex;
+  max-width: 27.17391586303711px;
+`;
+
+const Div82 = styled.div`
+  display: flex;
+  max-width: 59.78260803222656px;
+  height: 0px;
+  width: 59.78260803222656px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(58, 13, 13, 1);
+`;
+
+const Div83 = styled.div`
+  display: flex;
+  max-width: 27.173913955688477px;
+  height: 0px;
+  width: 27.173913955688477px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(58, 13, 13, 1);
+`;
+
+const Div84 = styled.div`
+  display: flex;
+  max-width: 27.173913955688477px;
+  height: 0px;
+  width: 27.173913955688477px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+  background-color: rgba(58, 13, 13, 1);
+`;
+
+const Div85 = styled.div`
+  display: flex;
+  max-width: 72.82608795166016px;
+  height: 26.086956024169922px;
+  width: 72.82608795166016px;
+  background-image: linear-gradient(
+    to left,
+    rgba(4, 240, 240, 1) 0%,
+    rgba(125, 178, 150, 1) 49.264705181121826%,
+    rgba(6, 253, 75, 0.6600000262260437) 100%
+  );
+`;
+
+const Div86 = styled.div`
+  display: flex;
+  max-width: 33.69565200805664px;
+  height: 33.69565200805664px;
+  width: 33.69565200805664px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 4px;
+  border-style: solid;
+  background-image: linear-gradient(
+    to left,
+    rgba(248, 223, 174, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+`;
+
+const Div87 = styled.div`
+  display: flex;
+  max-width: 19.565217971801758px;
+  height: 6.5217390060424805px;
+  width: 19.565217971801758px;
+  border-radius: 5px;
+  background-color: rgba(3, 3, 3, 1);
+`;
+
+const Div88 = styled.div`
+  display: flex;
+  max-width: 3.2608695030212402px;
+  height: 3.2608695030212402px;
+  width: 3.2608695030212402px;
+  background-color: rgba(255, 255, 255, 1);
+`;
+
+const Div89 = styled.div`
+  display: flex;
+  max-width: 3.2608695030212402px;
+  height: 3.2608695030212402px;
+  width: 3.2608695030212402px;
+  background-color: rgba(255, 255, 255, 1);
+`;
+
+const Div90 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 27.173913955688477px;
+  width: 27.173913955688477px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+`;
+
+const ImageSizer14 = styled.div`
+  width: 100%;
+  padding-top: 13.999999263000513%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div91 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 27.717391967773438px;
+  width: 27.717391967773438px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+`;
+
+const ImageSizer15 = styled.div`
+  width: 100%;
+  padding-top: 15.68627383515544%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+const Div92 = styled.div`
+  display: flex;
+  max-width: 7.8381547927856445px;
+  height: 0px;
+  width: 7.8381547927856445px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 5px;
+  border-style: solid;
+`;
+
+const Div93 = styled.div`
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 26px;
+  width: 26px;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+`;
+
+const ImageSizer16 = styled.div`
+  width: 100%;
+  padding-top: 17.307692307692307%;
+  pointer-events: none;
+  font-size: 0;
+`;
+
+export default function MyComponent(props) {
+  return (
+    <>
+      <Div>
+        <Div2>
+          <Div3>
+            <Div4></Div4>
+          </Div3>
+          <Div5></Div5>
+          <Div6></Div6>
+          <Div7>Find It</Div7>
+          <Div8>Groups & Interests</Div8>
+          <Div9>Technology & Research</Div9>
+          <Div10>Developer World</Div10>
+          <Div11>Customer Support</Div11>
+          <Div12></Div12>
+          <Div13>Resources Online</Div13>
+          <Div14>About Apple</Div14>
+          <Div15></Div15>
+          <Div16></Div16>
+          <Div17></Div17>
+          <Div18></Div18>
+          <Div19></Div19>
+          <Div20>Apple Sites Worldwide</Div20>
+          <Div21>Product Information</Div21>
+          <SwitzerlandTaiwanTurkeyUk>
+            Switzerland Taiwan Turkey UK & Ireland United States
+          </SwitzerlandTaiwanTurkeyUk>
+          <Div22></Div22>
+          <Div23></Div23>
+          <Div24></Div24>
+          <Div25></Div25>
+        </Div2>
+        <Div26>
+          <Div27> Welcome to Apple</Div27>
+          <Div28>
+            <Div29
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.5212209297211144}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666"
+                  type="image/webp"
+                />
+
+                <Image
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd34e20e27e1c45f6a9ecd2ee17e90666"
+                ></Image>
+              </picture>
+
+              <ImageSizer className="builder-image-sizer"></ImageSizer>
+            </Div29>
+            <Div30
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.1728736263506914}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fdf47f6f9bfc84e869f5734effc815627"
+                />
+              </picture>
+
+              <ImageSizer2 className="builder-image-sizer"></ImageSizer2>
+            </Div30>
+            <Div31
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.21576715487416223}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Ff74d973b08f14d2ca41ef64cacc6ab31"
+                />
+              </picture>
+
+              <ImageSizer3 className="builder-image-sizer"></ImageSizer3>
+            </Div31>
+            <Div32
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.16345598278155704}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F1432726cee1b47f382d84c2163017652"
+                />
+              </picture>
+
+              <ImageSizer4 className="builder-image-sizer"></ImageSizer4>
+            </Div32>
+            <Div33
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.17000604023120666}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F48561545c1e54b8bafffa5da0756d850"
+                />
+              </picture>
+
+              <ImageSizer5 className="builder-image-sizer"></ImageSizer5>
+            </Div33>
+            <Div34
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.17966212531531695}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8b908e092e114833b1eed9a72b3137d4"
+                />
+              </picture>
+
+              <ImageSizer6 className="builder-image-sizer"></ImageSizer6>
+            </Div34>
+            <Div35
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={1.2125196975549606}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F20cc78a6a1a54bfa9c49ad0d6dc1fd84"
+                />
+              </picture>
+
+              <ImageSizer7 className="builder-image-sizer"></ImageSizer7>
+            </Div35>
+          </Div28>
+        </Div26>
+        <Div36>
+          <Div37></Div37>
+          <Div38></Div38>
+          <Div39>What’s Hot</Div39>
+          <Div40></Div40>
+          <Div41></Div41>
+          <PreorderMacOs8NowYouCan>
+            Preorder Mac OS 8 Now you can preorder Mac OS 8, described by
+            Macworld as “the most comprehensive update to the Mac OS in years,
+            sporting a bold new look, a speedier Finder, more
+          </PreorderMacOs8NowYouCan>
+          <Div42></Div42>
+          <BeTheFirstToKnowLearnAbo>
+            Be the First to Know Learn about new Macintosh software releases the
+            moment they become available. Check Hot Mac Products to hear about
+            programs like speed Demon, ReBirth RB-338 and
+          </BeTheFirstToKnowLearnAbo>
+        </Div36>
+        <Div43>
+          <Div44></Div44>
+          <Div45></Div45>
+          <Div46></Div46>
+          <Div47>CyberDrive</Div47>
+          <Div48>Introducing </Div48>
+          <RegisterTodayForAFreeCdR>
+            Register today for a free CD-ROM.
+          </RegisterTodayForAFreeCdR>
+          <Div49
+            image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007"
+            backgroundPosition="center"
+            backgroundSize="cover"
+            aspectRatio={1}
+          >
+            <picture>
+              <source
+                srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007"
+                type="image/webp"
+              />
+
+              <Image8
+                src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007"
+                srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F6a0167ecc0774451af502f01cd26d007"
+              ></Image8>
+            </picture>
+
+            <ImageSizer8 className="builder-image-sizer"></ImageSizer8>
+          </Div49>
+        </Div43>
+        <Div50>
+          <Div51>1997</Div51>
+          <Div52>
+            <Div53>
+              <Div54></Div54>
+              <Div55>14</Div55>
+              <Div56>JULY</Div56>
+              <Div57></Div57>
+              <Div58
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={1.9997684735552513e-16}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e"
+                    type="image/webp"
+                  />
+
+                  <img
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F50850a4228c0432b94b386bbbe36214e"
+                  />
+                </picture>
+
+                <ImageSizer9 className="builder-image-sizer"></ImageSizer9>
+              </Div58>
+            </Div53>
+            <Div59></Div59>
+          </Div52>
+        </Div50>
+        <Div60>
+          <Div61
+            image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8"
+            backgroundPosition="center"
+            backgroundSize="contain"
+            aspectRatio={0.825}
+          >
+            <picture>
+              <source
+                srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8"
+                type="image/webp"
+              />
+
+              <img
+                src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8"
+                srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fda6831c660c74904a2d00e0cef6b89a8"
+              />
+            </picture>
+
+            <ImageSizer10 className="builder-image-sizer"></ImageSizer10>
+          </Div61>
+          <Div62>
+            <Div63
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.9565217391304348}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F968d089cb28f45cb9523762f6300d464"
+                />
+              </picture>
+
+              <ImageSizer11 className="builder-image-sizer"></ImageSizer11>
+            </Div63>
+            <Div64
+              image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a"
+              backgroundPosition="center"
+              backgroundSize="contain"
+              aspectRatio={0.6908396946564885}
+            >
+              <picture>
+                <source
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a"
+                  type="image/webp"
+                />
+
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a"
+                  srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fd4ead331bddd4f4c97aecbefc571007a"
+                />
+              </picture>
+
+              <ImageSizer12 className="builder-image-sizer"></ImageSizer12>
+            </Div64>
+            <Div65>
+              <Div66></Div66>
+              <Div67></Div67>
+            </Div65>
+            <Div68>MOVIES FROM MARS</Div68>
+            <QuickTimeVrTakesYouOutOf>
+              Quick Time VR Takes You Out of this World
+            </QuickTimeVrTakesYouOutOf>
+            <Div69>
+              <Div70>EMATE 300</Div70>
+              <Div71>Mobile, Affordable, & Smart</Div71>
+              <Div72
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={0.9022556390977443}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238"
+                    type="image/webp"
+                  />
+
+                  <img
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F63bbe37888af4fa1abf917fc68004238"
+                  />
+                </picture>
+
+                <ImageSizer13 className="builder-image-sizer"></ImageSizer13>
+              </Div72>
+            </Div69>
+            <Div73>
+              <Div74
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={0}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428"
+                    type="image/webp"
+                  />
+
+                  <Image14
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4337d92471284cbeab3090a462f39428"
+                  ></Image14>
+                </picture>
+              </Div74>
+              <Div75
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={0}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406"
+                    type="image/webp"
+                  />
+
+                  <Image15
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F8d51ff553b444e22ae41ed6f8135a406"
+                  ></Image15>
+                </picture>
+              </Div75>
+              <Div76
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={0}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585"
+                    type="image/webp"
+                  />
+
+                  <Image16
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fbcd7dcc87dbe41748c77a76200b01585"
+                  ></Image16>
+                </picture>
+              </Div76>
+              <Div77>
+                <Div78></Div78>
+                <Div79></Div79>
+                <Div80></Div80>
+                <Div81>
+                  <Div82></Div82>
+                  <Div83></Div83>
+                  <Div84></Div84>
+                </Div81>
+              </Div77>
+              <Div85></Div85>
+              <Div86></Div86>
+              <Div87></Div87>
+              <Div88></Div88>
+              <Div89></Div89>
+              <Div90
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={0.13999999263000512}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e"
+                    type="image/webp"
+                  />
+
+                  <img
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2Fcc30a5aa4c5f4ff4874bc2e64628fa2e"
+                  />
+                </picture>
+
+                <ImageSizer14 className="builder-image-sizer"></ImageSizer14>
+              </Div90>
+              <Div91
+                image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474"
+                backgroundPosition="center"
+                backgroundSize="contain"
+                aspectRatio={0.1568627383515544}
+              >
+                <picture>
+                  <source
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474"
+                    type="image/webp"
+                  />
+
+                  <img
+                    src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474"
+                    srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F2118a262a7c444e5b58db0a922c53474"
+                  />
+                </picture>
+
+                <ImageSizer15 className="builder-image-sizer"></ImageSizer15>
+              </Div91>
+              <Div92></Div92>
+            </Div73>
+          </Div62>
+          <Div93
+            image="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3"
+            backgroundPosition="center"
+            backgroundSize="contain"
+            aspectRatio={0.17307692307692307}
+          >
+            <picture>
+              <source
+                srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3"
+                type="image/webp"
+              />
+
+              <img
+                src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3"
+                srcSet="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F75818c76b96f4a64991bd3a207f8d7e3"
+              />
+            </picture>
+
+            <ImageSizer16 className="builder-image-sizer"></ImageSizer16>
+          </Div93>
+        </Div60>
+      </Div>
+    </>
+  );
+}
